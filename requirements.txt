@@ -1,0 +1,7 @@
+fastapi
+gradio
+requests
+uvicorn
+openai
+python-dotenv
+Pillow
